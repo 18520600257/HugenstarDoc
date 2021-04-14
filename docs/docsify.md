@@ -1,4 +1,4 @@
-## node.js安装
+﻿## node.js安装 123123
 地址：https://nodejs.org/en/
 > 下载最新版本 注意CentOs6.5可能只支持到10
 ``` bash
