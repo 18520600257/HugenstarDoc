@@ -1,4 +1,4 @@
-###  安装kinbana
+﻿###  安装kinbana1 1231
 
 ```bash
 wget https://artifacts.elastic.co/downloads/kibana/kibana-7.12.0-linux-x86_64.tar.gz
